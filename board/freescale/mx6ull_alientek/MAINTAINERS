@@ -1,0 +1,6 @@
+MX6ULLEVK BOARD
+M:	leeska <leeska@163.com>
+S:	Maintained
+F:	board/freescale/mx6ull_alientek/
+F:	include/configs/mx6ull_alientek.h
+F:	configs/mx6ull_alientek_defconfig
